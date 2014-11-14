@@ -1,0 +1,40 @@
+# Title of your blog; shows in the header
+name: "Nicholas Gottlieb"
+
+# Description of your content (will only be used on Google Search)
+description: "I write about marketing, growth, software, and startups."
+
+# Your name. Will show in your footer + sidebar 
+author: "Nicholas Gottlieb"
+
+url: "http://nickgottlieb.com"
+baseurl: ""
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "I make things grow online. I also enjoy surfing, sailing, bluegrass, and seeing the world."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: worldsoup	
+github: worldsoup
+instagram: worldsoup
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+#ga_domain: m3xm.github.io
+#ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 100
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed

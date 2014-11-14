@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "How Important Is Passion?"
+date:   2014-1-20 16:39:00
+---
+
+A few months back I went through an interview at a tech startup that got me thinking: how important is passion for the product?
+
+I don’t think many people would disagree that among the founders passion is essential; if you are going to make all the sacrificices necessary of founding your own company, you had better be passionate about what you are building. But what about for employees? How important is it that everyone one them be passionate about the product?
+
+As a backdrop for these thoughts, here is how the interview went: the company is very well funded, has great growth, and an interesting (at least to me) vertical and product (b2b SaaS). I really enjoyed the contract and consulting work I was doing at the time and was only interested in working at a company where I really loved the product, the team, and felt very strongly about the growth prospects.
+
+The interview process consisted of a couple of phone interviews, followed by several hours of one-on-one interviews in person, creating and presenting a mock marketing campaign to the team, and finally an interview with the co-founder and CEO. This interview was pretty standard; he told me about how he founded the company, asked me a few questions about my background, answered any questions I had, and then asked me: “if you only had 10 years to live what would you do?”. After thinking for a minute I said that I would spend a lot of time traveling and building something that would make the world better and last longer than 10 years. He then asked “Would you take this job if you only had 10 years to live?”
+
+With little hesitation I said no, I probably wouldn’t, because I would want to travel and build something of my own rather than working for a company. I immediately got the sense that he didn’t like the answer and the interview ended shortly after. I had really enjoyed the interview process as a whole, liked all the team members, and was really excited about the role because I knew it was something I could do really well. But after that question I had a feeling things might not work out, and sure enough a few days later I got a call telling me they would not be extending an offer. When I asked the reason, I was told the CEO did not feel I was ‘passionate enough about the company’.
+
+This got me thinking a lot about team building, cultural fit, and different processes for finding the right talent. I have no doubt I had the perfect skill set for this job and the company most likely felt the same way or things probably would not have progressed as far as they did. However, to be honest, though I was passionate about the company and about the opportunity to help them grow, I was not overly passionate about the product itself. It’s not that I didn’t like the product (I actually had used it and thought it was amazing), I just didn’t feel an overwhelming passion for it (at least not to the point where I would want to spend my last years on earth working on it) . So, <a href="https://37signals.com/svn/posts/2904-forget-passion-focus-on-process" target="_blank">how important is passion</a>?
+
+This particular company has obviously made it a core part of their hiring process to only hire people who have a zealous passion for the company (hence the 10 year question), but can that type of hiring process really scale? and is that particular question the right way to gauge and measure a candidates passion?
+
+In my opinion the answer to both is no. I do believe that all 150 or so employees at this company answered ‘yes’ when the CEO asked them this same question, but I don’t believe all (or even most of them) were being honest. I think they were giving the answer that they thought the interviewer wanted to hear (not an outrageous tactic of course). I think that gauging a candidate’s passion for what he or she does, for growing personally and professionally, and for being successful is a much more effective and scaleable way to find great talent. I love the approach that Github’s CEO Tom Preston-Werner takes
+
+Do they care about improving as a person? Do they believe in products? In supporting users? In making developers’ lives better? In making it easier for people to work together? Are they self-motivated? Do they value communication skills? Do they appreciate the freedom to self-direct and make the best possible decision?
+
+To me these are the questions that really matter and I find it hard to believe that the 10 years question really answers any of these.
+
+Additionally, how much passion can someone really have for a company that they only have an outsiders point of view of? Most job applicants have the same set of data on a company; information that is publicly available (press, company’s website, etc), insider information from contacts that work or have worked at the company, and then what you learn through the interview process. How much true and genuine passion can one really have based on these data points? Maybe a lot, but personally I find that hard to believe (at lest for myself). I believe that if you have a great product, and have a team that really cares about delighting your customers and building something great, your employes will love working there and be truly passionate about the company. 
+
+In the end of course it was for the best that they didn’t end up hiring me. I’m obviously not the type of candidate they want, they probably aren’t the type of company I want to work for, and I ended up landing <a href="http://circleci.com/" target="_new">somewhere</a> that I really love.
