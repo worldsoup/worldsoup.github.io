@@ -20,6 +20,11 @@ header {
       }
     }
   } // end h1.title
+  h4.description {
+    margin: .5em 0em 0em 0em;
+    letter-spacing: 1px;
+    text-transform: none;
+  }
 
   .close {
     .lines {
