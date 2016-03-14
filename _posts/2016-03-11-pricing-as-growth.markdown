@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pricing as Growth"
+title:  "SaaS Pricing as a Growth Lever"
 date:   2016-03-11 16:57:51
 ---
 
