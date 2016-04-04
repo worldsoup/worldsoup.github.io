@@ -20,13 +20,13 @@ We began by taking a look at the potential revenue impact on future users. Of co
 
 Say we were signing up 100 new users per month, and that by switching to a freemium model we would be able to sign up 300 new users per month (we actually did run a freemium test on our site and were able to increase sign ups by almost 3X). We knew from looking at our historical data that the average customer's upgrade velocity (number of months since sign up divided by number of additional containers purchased) is .5 over the first 6 months. So if we look 6 months down the road, the average customer who signed up for one container will be using 4. Here is an equation that helped us compare potential revenue 6 months from now:
  
-<code>
-	sign ups * (initial monthly spend + ((6 * upgrade velocity) * 50)) =  cohort revenue in month 6
 
-	100 * ($19+(3*50)) = 16,900
+sign ups * (initial monthly spend + ((6 * upgrade velocity) * 50)) =  cohort revenue in month 6
 
-	300 * ($0+(3*50)) = 45,000
-</code>
+100 * ($19+(3*50)) = 16,900
+
+300 * ($0+(3*50)) = 45,000
+
  
 While this particular equation is simplified and glosses over things like customer churn, users vs. accounts, and the difference in the types of users a free product might attract, it did serve as a good heuristic. It showed that if we could maintain anywhere near the same upgrade velocity for our freemium customers as had had previously the overall revenue growth would be substantial.
 
