@@ -54,6 +54,26 @@
         <div class="h-wrap">
           <h1 class="title"><a href="{{ site.url }}" title="Back to Homepage">{{ site.name }}</a></h1>
           <h4 class="description">{{ site.description }}</h4>
+          <input type="text" id="search-input" />
+<script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+<script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js"></script>
+<script>
+  var client = algoliasearch("46IZ1EQQCI", "b28ec3c3f21db572dc00a7670623235e")
+  var index = client.initIndex('jekyll');
+  autocomplete('#search-input', {hint: false}, [
+    {
+      source: autocomplete.sources.hits(index, {hitsPerPage: 5}),
+      displayKey: 'title',
+      templates: {
+        suggestion: function(suggestion) {
+          return suggestion._highlightResult.title.value;
+        }
+      }
+    }
+  ]).on('autocomplete:selected', function(event, suggestion, dataset) {
+    console.log(suggestion, dataset);
+  });
+</script>
           <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
         </div>
       </header>
