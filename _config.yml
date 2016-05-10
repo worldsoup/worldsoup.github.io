@@ -38,3 +38,11 @@ paginate_path: "/page/:num"
 sass:
   sass_dir: _scss
   style: :compressed
+
+#Ruby Gems
+gems:
+  - algoliasearch-jekyll
+
+algolia:
+  application_id: '46IZ1EQQCI'
+  index_name:     'worldsoup'
