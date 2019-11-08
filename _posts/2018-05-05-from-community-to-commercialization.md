@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crossing The Chasm: From Community to Commercialization"
-date:   2013-11-19 16:39:00
+date:   2018-05-05 16:39:00
 ---
 
 I was invited to give a talk at HeavyBit about leveraging a developer community to build a commercial go-to-market motion. 
