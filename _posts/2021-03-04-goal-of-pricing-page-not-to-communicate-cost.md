@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The goal of your pricing page is not to communicate how much your product costs"
-date:   2021-03-03 16:57:51
+date:   2021-03-04 16:57:51
 ---
 
 ## Intro
