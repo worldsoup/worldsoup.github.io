@@ -16,7 +16,8 @@ The first and primary goal a visitor to your B2B SaaS website has is to understa
 
 One company that has always done a fantastic job in their digital go-to-market is Stripe and their pricing page is no exception. Let’s take a look at how their pricing page answers these 3 questions for a prospective customer.
 
-(pic)
+![Stripe Pricing](/assets/img/stripe-pricing.png)
+
 Question 1: what is Stripe selling?
 Over the years Stripe has developed a dizzying array of products, but their pricing page makes it very clear that what they are selling is a payments platform. Not only do they say it with the copy ‘Access a complete payments platform’, but they say it with the self-serve pricing that they have published. They are charging 2.9% + 30¢ per successful transaction, so clearly they are selling a product that allows you to charge customers online. 
 
@@ -32,7 +33,8 @@ All 3 question are very simply answered, and all hold true to the actual product
 
 
 Stripe is of course a very large business who has had a very long time to figure this out and do it well. Here is an example form strongDM, a slightly smaller (37 employees vs. 3,500), earlier stage company.
-(pic)
+
+![strongDM Pricing](/assets/img/strongdm-pricing.png)
 
 Question 1: what is strongDM selling? 
 While It’s very clear that you get everything the product has to offer, and that they are selling user licenses for said product, this page does not make it clear what exactly the product itself is providing. Luckily the front-page does make it very clear that strongDM is providing access control for developer infrastructure. Their solution provides more fine grained access control and allows companies with distributed workforces (nearly all companies right now) to ditch their much maligned VPNs. They could easily make it more clear what they are selling on their pricing page by re-iterating these core value props. The design could also be improved a bit by providing the information that matters above the fold. 
