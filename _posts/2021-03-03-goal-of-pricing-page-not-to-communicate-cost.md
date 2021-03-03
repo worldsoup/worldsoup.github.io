@@ -18,7 +18,8 @@ One company that has always done a fantastic job in their digital go-to-market i
 
 ![Stripe Pricing](/assets/img/stripe-pricing.png)
 
-Question 1: what is Stripe selling?
+*Question 1: what is Stripe selling?*
+
 Over the years Stripe has developed a dizzying array of products, but their pricing page makes it very clear that what they are selling is a payments platform. Not only do they say it with the copy ‘Access a complete payments platform’, but they say it with the self-serve pricing that they have published. They are charging 2.9% + 30¢ per successful transaction, so clearly they are selling a product that allows you to charge customers online. 
 
 Question 2: who is Stripe selling to?
