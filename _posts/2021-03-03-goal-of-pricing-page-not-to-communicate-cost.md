@@ -18,11 +18,11 @@ One company that has always done a fantastic job in their digital go-to-market i
 
 ![Stripe Pricing](/assets/img/stripe-pricing.png)
 
-** Question 1: what is Stripe selling? **
+**Question 1: what is Stripe selling?**
 
 Over the years Stripe has developed a dizzying array of products, but their pricing page makes it very clear that what they are selling is a payments platform. Not only do they say it with the copy ‘Access a complete payments platform’, but they say it with the self-serve pricing that they have published. They are charging 2.9% + 30¢ per successful transaction, so clearly they are selling a product that allows you to charge customers online. 
 
-** Question 2: who is Stripe selling to? **
+**Question 2: who is Stripe selling to?**
 
 The ‘Customized’ option is clearly for businesses that have large payments volume (it says so clearly), which means that the ‘Integrated’ plan must be for businesses that don’t have large volume (even though it does not say so explicitly). This is a very simple and direct way of communicating the fact that Stripe sells to both small e-commerce businesses and large e-commerce businesses. 
 
@@ -39,15 +39,15 @@ Stripe is of course a very large business who has had a very long time to figure
 
 ![strongDM Pricing](/assets/img/strongdm-pricing.png)
 
-** Question 1: what is strongDM selling? **
+**Question 1: what is strongDM selling?**
 
 While It’s very clear that you get everything the product has to offer, and that they are selling user licenses for said product, this page does not make it clear what exactly the product itself is providing. Luckily the front-page does make it very clear that strongDM is providing access control for developer infrastructure. Their solution provides more fine grained access control and allows companies with distributed workforces (nearly all companies right now) to ditch their much maligned VPNs. They could easily make it more clear what they are selling on their pricing page by re-iterating these core value props. The design could also be improved a bit by providing the information that matters above the fold. 
 
-** Question 2: who is strongDM selling to? **
+**Question 2: who is strongDM selling to?**
 
 It’s clear form their pricing page that they are selling to companies with at least 10 users who access things like databases, servers, cloud platforms, etc. I don’t know enough about their product and sales process to know if those are accurate criteria for their ideal customer, but if they are then this does a great job of answering the question.
 
-** Question 3: what is the buying process? **
+**Question 3: what is the buying process?**
 
 The price is very simple and  transparent ($50/user) and there is a clear CTA to ‘Try It Now’, so it’s pretty obvious that the buying process is self-serve and automated (which developers especially appreciate). There is an option to schedule a demo for potential customers who want some more hand holding, but there is no sign that they have a sales driven buying process (think AEs negotiating contracts with large customers). This clear, straightforward, and gives the potential a clear idea of what the buying process will look like. 
 
