@@ -26,7 +26,7 @@ Over the years Stripe has developed a dizzying array of products, but their pric
 
 The ‘Customized’ option is clearly for businesses that have large payments volume (it says so clearly), which means that the ‘Integrated’ plan must be for businesses that don’t have large volume (even though it does not say so explicitly). This is a very simple and direct way of communicating the fact that Stripe sells to both small e-commerce businesses and large e-commerce businesses. 
 
-** Question 3: what is the buying process? ** 
+**Question 3: what is the buying process?** 
 
 Again Stripe makes it pretty clear here. If you want the ‘Integrated’ package, you can get started in minutes via a self-serve onboarding experience (which is often the preferred way of buying for small businesses). If you have large payments volume, and want to purchase the ‘Customized’ package, then you will enter in to a purchasing process with the Stripe sales team (which is often the preferred way of buying for large businesses). 
 
