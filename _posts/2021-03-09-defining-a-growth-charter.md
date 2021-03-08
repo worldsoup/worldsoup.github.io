@@ -10,10 +10,10 @@ I often get asked by founders of B2B SaaS companies how they should go about bui
 
 In order to hopefully provide a helpful framework to think about this challenge, I’m writing a multi-part series on building out a growth team. The parts will include:
 
-Part 1: What is the growth team’s charter?
-Part 2: Where does the growth team fit in the org?
-Part 3: What will the makeup of the team look like?
-Part 4: Hiring the right people for the team
+1. What is the growth team’s charter?
+2. Where does the growth team fit in the org?
+3. What will the makeup of the team look like?
+4. Hiring the right people for the team
 
 
 
