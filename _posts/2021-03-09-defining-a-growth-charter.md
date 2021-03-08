@@ -4,7 +4,7 @@ title:  "Building A Growth Team - Part 1: Defining a Growth Charter"
 date:   2021-03-09 16:57:51
 ---
 
-# Building a growth team series
+# Building a Growth Team 
 
 I often get asked by founders of B2B SaaS companies how they should go about building their company’s first ‘Growth Team’. This is not an easy question to answer as what a growth team is chartered with achieving, where they fit in the org, what the team makeup looks like vary so widely from company to company. 
 
