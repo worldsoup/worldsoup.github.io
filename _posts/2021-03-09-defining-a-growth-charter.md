@@ -20,7 +20,7 @@ In order to hopefully provide a helpful framework to think about this challenge,
 
 
 
-## Step 1: Defining A Growth Charter
+# Step 1: Defining A Growth Charter
 
 ![Growth Charter](/assets/img/doc.jpg)
 
