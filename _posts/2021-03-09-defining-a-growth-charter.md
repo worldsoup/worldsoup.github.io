@@ -4,7 +4,7 @@ title:  "Building A Growth Team - Part 1: Defining a Growth Charter"
 date:   2021-03-09 16:57:51
 ---
 
-# Building a Growth Team 
+# Intro
 
 ![Growth Charts](/assets/img/charts.jpg)
 
