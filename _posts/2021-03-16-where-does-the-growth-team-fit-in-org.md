@@ -24,7 +24,7 @@ This is a question that every founder building their first growth team struggles
 
 I think the best way to explore this question is to start with the most common configurations and explain the situations in which I’ve seen each work best. There are of course other models besides the 4 below that can and do work, but one of these will be the best fit for most founders.
 
-1. Make the growth team part of marketing
+## 1. Make the growth team part of marketing
 
 This structure often works well when the existing marketing team is focused on traditional marketing disciplines such as demand generation and brand and needs a growth team that will largely be focused on product led growth. 
 
@@ -34,7 +34,7 @@ I’ve seen cases where this growth team becomes a sort of special forces team w
 
 If the point is to focus on product led growth, why not just make them part of product? Well that is certainly a valid option as well as we’ll discuss shortly. The easiest way to think about if the growth team should be part of marketing or product is look back at your growth team charter and ask yourself which team you want executing on these types of activities. There’s not a right or wrong answer, but this exercise usually makes it clear with model will work best for your team.
 
-2. Make the growth team the marketing team
+## 2. Make the growth team the marketing team
 
 I’ve seen this work very well with several early stage companies that are pursuing an aggressive product led growth strategy (aka no sales team) and actually implemented this model myself at CircleCI. 
 
@@ -42,7 +42,7 @@ When it’s clear that for at least the next year or so you will not build a tra
 
 As your company scales you will eventually need to build additional marketing functions but this model can often work well until you get to around 10m in ARR. 
 
-3. Make the growth team part of product
+## 3. Make the growth team part of product
 
 If you are early stage, functionally this is often very similar to the model above (having growth be your marketing team). The types of things they work on will be very similar, but rather than having them report up to the executive level as their own standalone team, in this model they report in to product. 
 
@@ -52,7 +52,7 @@ I think this model works best for early stage companies when you have a very str
 
 For later stage companies who’s growth is not heavily sales focused this is probably the most popular and successful model. Growth gets to sit with product so that that they are closely aligned and even have access to engineering resources (if they don’t have have them on the team already) while also often having the autonomy and visibility needed to pursue their charter.
 
-4. Make growth a standalone team that reports to the CEO 
+## 4. Make growth a standalone team that reports to the CEO 
 
 There are a couple sub-models that typically play out when growth is their own team with a direct line to the CEO. For early stage companies this often means that ‘growth’ is the early sales and marketing teams combined. This is usually most affective when the bulk of your growth strategy is focused on community and product-led growth but you also want to start experimenting with how you will build a repeatable sales process. With the right leadership and team both of these things can often be achieved by the same team as they are both hyper-focused on gaining a deep understanding of your customer. 
 
