@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building A Growth Team - Part 2: Where Does The Growth Team Fit In The Org?"
-date:   2021-03-09 16:57:51
+date:   2021-03-16 16:57:51
 ---
 
 # Intro
