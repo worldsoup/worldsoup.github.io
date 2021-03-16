@@ -20,6 +20,8 @@ In order to hopefully provide a helpful framework to think about this challenge,
 
 # Step 2: Where does the growth team fit in the org?
 
+![Growth Charts](/assets/img/org-chart.jpg)
+
 This is a question that every founder building their first growth team struggles with. The best answer largely depends on what the growth’s team charter is and how the wider company is set up to operate.
 
 I think the best way to explore this question is to start with the most common configurations and explain the situations in which I’ve seen each work best. There are of course other models besides the 4 below that can and do work, but one of these will be the best fit for most founders.
